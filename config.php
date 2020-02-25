@@ -23,6 +23,6 @@ $rconPort = 25575;
 $rconPassword = "Abc62351573";
 
 $queryHost = "karisgay.ddns.net";
-$queryPort = 25585;
+$queryPort = 25565;
 require(__DIR__ . "/authsys.php");
 ?>
