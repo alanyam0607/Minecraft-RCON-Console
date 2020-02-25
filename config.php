@@ -16,7 +16,7 @@ This file is part of Minecraft-RCON-Console.
     along with Minecraft-RCON-Console.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-$serverName = "My Server";
+$serverName = "KarIsGay Minecraft";
 
 $rconHost = karisgay.ddns.net";
 $rconPort = 25575;
