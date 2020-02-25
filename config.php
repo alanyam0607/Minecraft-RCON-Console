@@ -18,7 +18,7 @@ This file is part of Minecraft-RCON-Console.
 
 $serverName = "KarIsGay Minecraft";
 
-$rconHost = karisgay.ddns.net";
+$rconHost = "karisgay.ddns.net";
 $rconPort = 25575;
 $rconPassword = "Abc62351573";
 
